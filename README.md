@@ -20,9 +20,12 @@ El trabajo se desarrolló en **dos etapas**:
 
 ## 📂 Estructura del Proyecto
 📁 TelecomX-Churn
-├── TelecomX_clean.csv # Dataset limpio (Parte 1)
-├── TelecomX_balanced.csv # Dataset balanceado (oversampling)
-├── notebook.ipynb # Notebook principal con el análisis completo
+├── 
+TelecomX_clean.csv # Dataset limpio (Parte 1)
+├── 
+TelecomX_balanced.csv # Dataset balanceado (oversampling)
+├── 
+notebook.ipynb # Notebook principal con el análisis completo
 ├── README.md # Este archivo
 └── figs/ # Carpeta con visualizaciones
 ├── 00_distribucion_churn_pre_balanceo.png
